@@ -1,0 +1,1 @@
+Design a Lex program that extracts all email addresses from a given input text and prints them as output.

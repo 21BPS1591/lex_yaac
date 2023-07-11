@@ -1,0 +1,3 @@
+Develop a Yacc program that parses a simplified programming language syntax and generates an abstract syntax tree (AST) representation of the input code. The grammar should include constructs such as variable declarations, assignment statements, if-else statements, loops, and function definitions.
+
+

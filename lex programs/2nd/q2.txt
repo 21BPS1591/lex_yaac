@@ -1,0 +1,1 @@
+Create a Lex program that detects and removes all comments (both single-line and multi-line) from a given input file.

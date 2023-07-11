@@ -1,0 +1,1 @@
+Write a Yacc program that evaluates arithmetic expressions in a mathematical formula and prints the result. The expressions can include operators like +, -, *, and /, as well as parentheses for grouping.

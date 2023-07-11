@@ -1,0 +1,1 @@
+Implement a Lex program that identifies and tokenizes arithmetic expressions in a mathematical formula, distinguishing between operators (+, -, *, /) and operands (numbers).
